@@ -1,0 +1,11 @@
+// This is a simple Java project
+
+public class HelloWorld {
+
+     public void main(String[] args) {
+
+          System.out.println("Hello World!");
+
+     }    
+
+}
